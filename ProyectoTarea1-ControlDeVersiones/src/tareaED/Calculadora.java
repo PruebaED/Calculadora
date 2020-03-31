@@ -11,6 +11,10 @@ package tareaED;
 
 // Editando desde git bash !!!! //
 
+// Editando DESDE GIT BASH PARA EL EJERCICIO 6 - TAREA ENTORNOS //
+
+// rama2 //
+
 public class Calculadora{
     
     // Atributos de la clase
