@@ -15,7 +15,7 @@ package tareaED;
 
 // rama2 //
 
-public class Calculadora {
+public class Calculadora{
     
     // Atributos de la clase
     
