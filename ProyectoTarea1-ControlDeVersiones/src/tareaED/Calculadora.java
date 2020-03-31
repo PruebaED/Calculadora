@@ -46,6 +46,8 @@ public class Calculadora {
      * @return El resultado de la suma de las dos variables, -num1- y -num2-
      */
     
+    // Editando desde GitHub para la segunda tarea de Entornos !!!! -- !!!! //
+    
     public int suma (){
         
         int result;
